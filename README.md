@@ -1,4 +1,5 @@
 Weighted Graphs
+
 1: Introduction
 
 In graph theory, the traditional weighted graph consists of weights on edges only. Whereas weighing edges has many practical applications, weighing vertices as well also serve many purposes. In this paper, we will explore properties of a doubly-weighted graph—a graph in which both edges and vertices are weighted—and how they differ from an edge-only-weighted graph. Using these properties, we will explore and solve a problem by modeling it with a doubly-weighted graph.
@@ -31,8 +32,14 @@ file:///C:/Users/USER1/Pictures/ed.png
 
 To go from node S to node D we have 4 paths:
 
-1 \rightarrow 2 \rightarrow 4, with length equal to 2.
-1 \rightarrow 2 \rightarrow 3 \rightarrow 4, with length equal to 3.
-1 \rightarrow 3 \rightarrow 4, with length equal to 2.
-1 \rightarrow 3 \rightarrow 2 \rightarrow 4, with length equal to 3.
-As we can see, the shortest path has a length equal to 2. Also, we notice that we have two paths having a length equal to 2. Therefore, there are 2 shortest paths between node S and node D.
+1 --> 2 --> 4, with length equal to 2.
+
+1 --> 2 --> 3 --> 4, with length equal to 3.
+
+1 --> 3 --> 4, with length equal to 2.
+
+1 --> 3 --> 2 --> 4, with length equal to 3.
+
+As we can see, the shortest path has a length equal to 2.
+
+Also, we notice that we have two paths having a length equal to 2. Therefore, there are 2 shortest paths between node S and node D.
