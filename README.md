@@ -6,7 +6,9 @@ In graph theory, the traditional weighted graph consists of weights on edges onl
 
 links :
 1.https://www.youtube.com/watch?v=_ZcfwrWvo28
+
 2.http://olizardo.bol.ucla.edu/classes/soc-111/textbook/_book/2-2-the-building-blocks-of-graphs-edges-and-nodes.html#edges
+
 3.https://www.youtube.com/watch?v=H922Eyzg-QU
 
 Weighted Graphs :
