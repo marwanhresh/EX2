@@ -1,10 +1,12 @@
 # EX2
 Weighted Graphs
+
 1: Introduction
 
 In graph theory, the traditional weighted graph consists of weights on edges only. Whereas weighing edges has many practical applications, weighing vertices as well also serve many purposes. In this paper, we will explore properties of a doubly-weighted graph—a graph in which both edges and vertices are weighted—and how they differ from an edge-only-weighted graph. Using these properties, we will explore and solve a problem by modeling it with a doubly-weighted graph.
 
 links :
+
 1.https://www.youtube.com/watch?v=_ZcfwrWvo28
 
 2.http://olizardo.bol.ucla.edu/classes/soc-111/textbook/_book/2-2-the-building-blocks-of-graphs-edges-and-nodes.html#edges
