@@ -31,7 +31,7 @@ Suppose we have a graph G of V nodes numbered from 1 to v . In addition, we have
 Let’s check an example for better understanding. Suppose we have the following graph and we’re given S = 1 and D = 4:
 
 
-file:///C:/Users/USER1/Pictures/ed.png
+![ed](https://user-images.githubusercontent.com/62513189/145251803-c288ed90-781b-46a1-8cbe-24a7a4ef19ee.png)
 
 
 To go from node S to node D we have 4 paths:
