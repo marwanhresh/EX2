@@ -18,7 +18,9 @@ A weighted graph is a graph with edges labeled by numbers (called weights). In g
 In many applications, each edge of a graph has an associated numerical value, called a weight. Usually, the edge weights are nonnegative integers. Weighted graphs may be either directed or undirected.
 The weight of an edge is often referred to as the “cost” of the edge. In applications, the weight may be a measure of the length of a route, the capacity of a line, the energy required to move between locations along a route, etc.
 
+
 file:///C:/Users/USER1/Pictures/%D7%92%D7%A8%D7%A3.png
+
 
 Shortest Paths :
 
@@ -28,7 +30,9 @@ We have seen that performing a DFS or BFS on the graph will produce a spanning t
 Suppose we have a graph G of V nodes numbered from 1 to v . In addition, we have E edges that connect these nodes. We’re given two numbers S and D that represent the source node’s indices and the destination node, respectively.
 Let’s check an example for better understanding. Suppose we have the following graph and we’re given S = 1 and D = 4:
 
+
 file:///C:/Users/USER1/Pictures/ed.png
+
 
 To go from node S to node D we have 4 paths:
 
