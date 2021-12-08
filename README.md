@@ -19,7 +19,7 @@ In many applications, each edge of a graph has an associated numerical value, ca
 The weight of an edge is often referred to as the “cost” of the edge. In applications, the weight may be a measure of the length of a route, the capacity of a line, the energy required to move between locations along a route, etc.
 
 
-file:///C:/Users/USER1/Pictures/%D7%92%D7%A8%D7%A3.png
+![גרף](https://user-images.githubusercontent.com/62513189/145251938-7b756f76-8a15-41da-bf86-6a8dc948fd42.png)
 
 
 Shortest Paths :
