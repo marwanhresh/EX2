@@ -48,6 +48,8 @@ As we can see, the shortest path has a length equal to 2.
 
 Also, we notice that we have two paths having a length equal to 2. Therefore, there are 2 shortest paths between node S and node D.
 
+* In order to run this, you need to install JAVA9
+
 Time analysis (avrage of shortest path, center):
 
 	a. size 1000: 10ms
